@@ -1,0 +1,14 @@
+2024-07-05 14:37:30 - [31merror[39m: [31mNão foi possível conectar ao banco[39m
+2024-07-05 15:21:04 - [31merror[39m: [31mErro no sistema: Movie validation failed: director: Path `director` is required.[39m
+2024-07-08 10:57:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:01:07 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832b" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:03:11 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832b" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:06:37 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7g" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:14:33 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7s" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:15:43 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7s" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:16:44 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7s" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:17:07 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7s" (type string) at path "_id" for model "Movie"[39m
+2024-07-08 11:30:24 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7h" (type string) at path "_id" for model "Movie"[39m
+ 2024-07-09 09:11:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7h" (type string) at path "_id" for model "Movie"[39m
+2024-07-09 09:14:09 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7h" (type string) at path "_id" for model "Movie"[39m
+2024-07-09 10:22:55 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "66883dfa3b1412d3a338d2d" (type string) at path "_id" for model "Movie"[39m
