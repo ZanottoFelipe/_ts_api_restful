@@ -796,3 +796,5 @@
 [32m[39m
 2024-07-09 11:04:01 - [32mhttp[39m: [32mPATCH /api/movie/668d4331a9d8d550d1bb1bcd 200 211 - 47.967 ms[39m
 [32m[39m
+2024-08-20 19:01:12 - [31merror[39m: [31mNão foi possível conectar ao banco[39m
+2024-08-27 17:53:50 - [31merror[39m: [31mNão foi possível conectar ao banco[39m

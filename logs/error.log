@@ -12,3 +12,5 @@
  2024-07-09 09:11:38 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7h" (type string) at path "_id" for model "Movie"[39m
 2024-07-09 09:14:09 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "668becb0f355da9f5832bb7h" (type string) at path "_id" for model "Movie"[39m
 2024-07-09 10:22:55 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "66883dfa3b1412d3a338d2d" (type string) at path "_id" for model "Movie"[39m
+2024-08-20 19:01:12 - [31merror[39m: [31mNão foi possível conectar ao banco[39m
+2024-08-27 17:53:50 - [31merror[39m: [31mNão foi possível conectar ao banco[39m
