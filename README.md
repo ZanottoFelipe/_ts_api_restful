@@ -46,12 +46,20 @@ npm run dev
 - A estrutura do projeto segue o padrão MVC:
 
 ```bash
+<<<<<<< HEAD
 src/
 ├── controllers/   # Controladores
 ├── models/        # Modelos
 ├── routes/        # Rotas
 ├── services/      # Serviços
 ├── utils/         # Utilitários
+=======
+config/            #Congiguração do sistema
+src/
+├── controllers/   # Controladores
+├── models/        # Modelos
+├── routes         # Rotas
+>>>>>>> 7be69a59d54151d49448a5482213dcd5d723ae1a
 └── app.ts         # Arquivo principal da aplicação
 
 ```
